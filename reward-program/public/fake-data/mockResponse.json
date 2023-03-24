@@ -1,0 +1,71 @@
+{
+    "data": {
+        "transactions": [
+            {
+                "date": "January",
+                "customerId": 1,
+                "cost": "$120.00"
+            },
+            {
+                "date": "January",
+                "customerId": 1,
+                "cost": "$40.00"
+            },
+            {
+                "date": "February",
+                "customerId": 1,
+                "cost": "$12.00"
+            },
+            {
+                "date": "February",
+                "customerId": 1,
+                "cost": "$0.00"
+            },
+            {
+                "date": "March",
+                "customerId": 1,
+                "cost": "$1.00"
+            },
+            {
+                "date": "January",
+                "customerId": 2,
+                "cost": "$180.00"
+            },
+            {
+                "date": "February",
+                "customerId": 2,
+                "cost": "$220.00"
+            },
+            {
+                "date": "February",
+                "customerId": 2,
+                "cost": "$60.00"
+            },
+            {
+                "date": "March",
+                "customerId": 2,
+                "cost": "$50.00"
+            },
+            {
+                "date": "January",
+                "customerId": 3,
+                "cost": "$51.00"
+            },
+            {
+                "date": "February",
+                "customerId": 3,
+                "cost": "$111.00"
+            },
+            {
+                "date": "February",
+                "customerId": 3,
+                "cost": "$123.00"
+            },
+            {
+                "date": "March",
+                "customerId": 3,
+                "cost": "$1.00"
+            }
+        ]
+    }
+}
